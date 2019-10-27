@@ -4,6 +4,9 @@ Building multiple-client server system using socket programming.  When a client 
 Technologies used :
 
 HTML for GUI
+
 Flask for rendering HTML using python
+
 Socket Programming
+
 MY SQL database
